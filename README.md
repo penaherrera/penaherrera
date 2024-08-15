@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning web development 💻.<br>🎧 Ask me about my favorite playlists on Spotify.<br>⚡ Fun fact: I love coding while enjoying a cup of coffee ☕.
+💻 Junior Full Stack Web Developer.<br>🎧 Ask me about my favorite playlists on Spotify.<br>⚡ Fun fact: I love coding while enjoying a cup of coffee ☕.
 
 
 ## 🌐 Socials:
