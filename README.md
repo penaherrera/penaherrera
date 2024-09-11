@@ -1,5 +1,5 @@
-# 💫 About Me:
-💻 Junior Back-end Web Developer.<br>🎧 Ask me about my favorite playlists.<br>Fun fact: I love coding while enjoying a cup of coffee ☕.
+# About Me:
+💻 Junior Back-end Web Developer.<br>🎧 Ask me about my favorite playlists.<br> 💫Fun fact: I love coding while enjoying a cup of coffee ☕.
 
 
 ## 🌐 Socials:
